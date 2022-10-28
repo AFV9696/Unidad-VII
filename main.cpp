@@ -23,6 +23,8 @@ int main() {
 
     da2.insert(100, 6);
     da2.print();
+    da2.remove(3);
+    da2.print();
 
     return 0;
     
